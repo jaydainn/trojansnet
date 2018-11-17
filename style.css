@@ -1,0 +1,44 @@
+body {
+    background-color: white ;
+    font-family: sans-serif;
+    
+}
+h1 {
+    font-family: sans-serif ;
+    font-size: 70px;
+    color: black ;
+}
+
+.chat {
+    float:right ;
+    margin-right: 50%
+        
+        
+    
+    
+}
+
+.People {
+    
+    
+    padding-top: 42px;
+}
+
+.Schedule {
+    padding-bottom: 8% ;
+    
+}
+.circle {
+    background-image:url("Assets/elon-musk.jpg");
+    background-size:90px;
+    width:65px;
+    height:65px;
+    border-bottom-left-radius: 600px ;
+    border-bottom-right-radius: 600px ;
+    border-top-left-radius: 600px ;
+    border-top-right-radius: 600px ;
+    margin-bottom: 5px;
+}
+.name {
+    text-align: 50px;
+}
